@@ -1,0 +1,6 @@
+{
+  "name": "Liquidador Formulario 210 DIAN - AG 2025",
+  "description": "Herramienta profesional de liquidación y auditoría de la Declaración de Renta para Personas Naturales (Formulario 210 DIAN) Año Gravable 2025 bajo el Estatuto Tributario vigente a 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
